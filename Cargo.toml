@@ -1,0 +1,3 @@
+[workspace]
+members = ["programs/solana-ellipsis-atomic-swap"]
+resolver = "2"
